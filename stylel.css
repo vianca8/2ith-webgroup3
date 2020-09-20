@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    border-style: double;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-size: cover; /* Add this line */
+    background-position: center center; /* Add this line */
+    background-repeat: no-repeat; /* Add this line */
+    background-attachment: fixed; /* Add this line */
+    background-image: url('https://image.freepik.com/free-vector/abstract-stylish-social-media-icons-set_1055-5090.jpg');
+}

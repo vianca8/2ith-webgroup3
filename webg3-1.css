@@ -1,0 +1,80 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1531945859692-5c3db72c8c99?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80');
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.newarrival
+{
+	background: purple;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+.newarrival1
+{
+	background: red;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+.newarrival2
+{
+	background: yellow;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+.newarrival3
+{
+	background: green;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+.col-md-7 h2
+{
+	color: #555;
+}
+.stars
+{
+	height: 15px;
+
+}
+.price
+{
+	color: #FE980F;
+	fon-size:25px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+.input
+{
+	border: 1px solid #CCC;
+	font-weight:bold;
+	height: 33px;
+	text-align: center;
+	width: 30px;
+}
+.cart{
+	background: #FE980F;
+	color: #FFFFFF;
+	font-size: 15px;
+	margin-left: 20px;
+}
+#img{
+  height: 410px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.row{
+  background-color: white;
+}
+.button{
+  background-color: #006633;
+  border-radius: 11%;
+  color: white;
+}
